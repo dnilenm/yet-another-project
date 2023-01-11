@@ -1,0 +1,8 @@
+.footer__column-link{
+    color: white;
+    margin-bottom: 10px;
+    text-decoration: none;
+  }
+  .footer__column-link:nth-of-type(3n){
+    margin-bottom: 0;
+  }

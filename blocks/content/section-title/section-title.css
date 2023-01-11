@@ -1,0 +1,9 @@
+.section-title{
+    display:flex;
+    width:60%;
+    margin:0 auto;
+    justify-content: center;
+    line-height: 1.15;
+    font-size: 60px;
+    font-weight: 600;
+  }
